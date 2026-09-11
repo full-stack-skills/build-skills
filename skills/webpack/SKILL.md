@@ -1,7 +1,7 @@
 ---
 name: webpack
 description: Provides comprehensive guidance for Webpack bundler including configuration, loaders, plugins, code splitting, optimization, and development setup. Use when the user asks about Webpack, needs to configure Webpack, set up build pipelines, optimize bundles, or work with Webpack plugins.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

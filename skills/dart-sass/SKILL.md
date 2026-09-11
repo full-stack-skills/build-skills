@@ -1,7 +1,7 @@
 ---
 name: dart-sass
 description: Provides comprehensive guidance for Dart Sass including Sass syntax, compilation, mixins, functions, and best practices. Use when the user asks about Dart Sass, needs to compile Sass to CSS, use Sass features, or work with Sass in projects.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

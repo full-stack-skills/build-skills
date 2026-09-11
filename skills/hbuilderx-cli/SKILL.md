@@ -1,5 +1,6 @@
 ---
 name: hbuilderx-cli
+license: Apache-2.0
 description: HBuilderX CLI 命令行工具技能。当用户需要通过命令行启动 uni-app 开发环境、查看运行日志、运行自动化测试、配置 HBuilderX CLI 环境，或在 npm scripts 中集成 HBuilderX 工作流时使用。覆盖 Web、Android、iOS、HarmonyOS、小程序等多平台开发。
 ---
 

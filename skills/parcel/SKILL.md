@@ -1,7 +1,7 @@
 ---
 name: parcel
 description: Provides comprehensive guidance for Parcel bundler including zero-configuration setup, asset handling, hot module replacement, and production builds. Use when the user asks about Parcel, needs to set up a build tool quickly, or work with Parcel's automatic configuration.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

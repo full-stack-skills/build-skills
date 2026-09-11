@@ -1,7 +1,7 @@
 ---
 name: rspack
 description: Provides comprehensive guidance for Rspack bundler including configuration, plugins, loaders, optimization, and Webpack compatibility. Use when the user asks about Rspack, needs to configure Rspack, optimize build performance, or migrate from Webpack.
-license: Complete terms in LICENSE.txt
+license: MIT
 ---
 
 ## When to use this skill

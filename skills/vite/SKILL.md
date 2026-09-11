@@ -1,7 +1,7 @@
 ---
 name: vite
 description: Guidance for Vite using the official Guide, Config Reference, and Plugins pages. Use when the user needs Vite setup, configuration, or plugin selection details.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

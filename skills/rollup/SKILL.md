@@ -1,7 +1,7 @@
 ---
 name: rollup
 description: Provides comprehensive guidance for Rollup bundler including configuration, plugins, code splitting, tree shaking, and library bundling. Use when the user asks about Rollup, needs to bundle libraries, optimize output, or configure Rollup for production builds.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
